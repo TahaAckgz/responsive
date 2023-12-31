@@ -1,0 +1,51 @@
+.row > div {
+
+}
+body{
+  background-image: url(back.avif);
+}
+.nav {
+  background-color: #cecece;
+}
+#topbar div {
+  height: 80px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+#topbar p {
+  padding: 0px 10px;
+}
+
+#topbar a i {
+  padding: 0px 5px 0px 12px;
+  color: rgb(0, 0, 0);
+}
+
+
+#info {
+  padding:40px 0 0 0;
+  height: 135px;
+}
+#footer img{
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#a{
+    background-image: url(indir.jfif);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+#navbar{
+  padding: 0 0 30px 0  ;
+}
+#footer{
+  padding: 30px 0 0 0;
+}
+#hero{
+  padding: 0 0 30px 0; 
+}
